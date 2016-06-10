@@ -1,0 +1,9 @@
+.yayBorder {
+border-radius: 7px;
+}
+
+.vertical {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
